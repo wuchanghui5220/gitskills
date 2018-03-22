@@ -2,3 +2,4 @@
 
 print("This is a new file.")
 print("partner dev if module")
+partner
