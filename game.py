@@ -13,5 +13,5 @@ while c > 0:
 		print("Yes, you did it")
 		break
 	c -= 1
-	print("You have $c chances left. ")
+	print("You have " + str(c) + " chances left. ")
 print("Have Fun")
