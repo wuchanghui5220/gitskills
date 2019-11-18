@@ -15,3 +15,5 @@ while c > 0:
 	c -= 1
 	print("You have " + str(c) + " chances left. ")
 print("Have Fun")
+
+print("^_^" * 3)
