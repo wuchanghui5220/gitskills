@@ -17,3 +17,5 @@ while c > 0:
 print("Have Fun")
 
 print("^_^" * 3)
+
+# This game is Fun.
