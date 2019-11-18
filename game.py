@@ -6,7 +6,7 @@ c = 3
 while c > 0:
         number = int(input("Please input a number: ")
 	if number > a:
-		print("Too Big")
+		print("Too big")
 	elif number < a:
 		print("Too small")
 	else:
