@@ -2,7 +2,7 @@
 
 a = 7
 c = 3
-
+print("Welcome!")
 while c > 0:
         number = int(input("Please input a number: ")
 	if number > a:
