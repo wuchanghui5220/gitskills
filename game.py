@@ -2,7 +2,7 @@
 
 a = 7
 c = 3
-
+print("Welcome!")
 while c > 0:
         number = int(input("Please input a number: ")
 	if number > a:
@@ -15,3 +15,5 @@ while c > 0:
 	c -= 1
 	print("You have " + str(c) + " chances left. ")
 print("Have Fun")
+
+print("^_^" * 3)
