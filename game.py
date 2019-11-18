@@ -14,3 +14,4 @@ while c > 0:
 		break
 	c -= 1
 	print("You have $c chances left. ")
+print("Have Fun")
