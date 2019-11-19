@@ -10,7 +10,7 @@ while c > 0:
 	elif number < a:
 		print("Too small")
 	else:
-		print("Yes, you did it")
+		print("Well done, you did it")
 		break
 	c -= 1
 	print("You have " + str(c) + " chances left. ")
