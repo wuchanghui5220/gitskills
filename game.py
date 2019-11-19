@@ -19,3 +19,4 @@ print("Have Fun")
 print("^_^" * 3)
 
 # This game is Fun.
+print("Today is a good day")
