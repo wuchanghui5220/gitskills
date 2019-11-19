@@ -14,7 +14,7 @@ while c > 0:
 		break
 	c -= 1
 	print("You have " + str(c) + " chances left. ")
-print("Have Fun")
+print("Have Fun, See you!")
 
 print("^_^" * 3)
 
