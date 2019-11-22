@@ -6,7 +6,7 @@ print("Welcome to guess game!")
 while c > 0:
         number = int(input("Please input a number: ")
 	if number > a:
-		print("Too big")
+		print("Too Big")
 	elif number < a:
 		print("Too small")
 	else:
@@ -17,3 +17,6 @@ while c > 0:
 print("Have Fun, See you!")
 
 print("^_^" * 3)
+
+# This game is Fun.
+print("Today is a good day")
